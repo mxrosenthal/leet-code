@@ -10,13 +10,8 @@
 // If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 
 const maxSubArray = function (nums) {
-  let biggestSum = 0;
-  nums.map(num => biggestSum += num)
-  let temp = 0;
-
-  for (const num of nums) {
-
-  }
+  const currentMax = 0;
+  const totalMax = ...
   return sum;
 }
 
